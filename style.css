@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+.header-pacifico {
+    font-family: 'Pacifico', cursive;
+}
+.line{
+    margin-left: 510px;
+    padding-right: 350px;
+    background-color: #03989E;
+    width: 50px;
+    height: 10px;
+    border-radius: 10px;
+}
+.lobster{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
